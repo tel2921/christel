@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
  Sushi
  Ramen
+=======
+Hungergame
+ 911
+ Worst Witch
+>>>>>>> movies
